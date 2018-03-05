@@ -1,0 +1,170 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-03-01T14:19:20+01:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 144
+
+Apache Licensed: 144
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    src/test/java/com/dwaiba/bdd/demo/BobcatWaitTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/PropertiesTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/subreports/SubreportTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/traffic/TrafficAbstractTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/traffic/TrafficWithDisabledProxyTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/traffic/TrafficTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/BbAemCommonSuite.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/BbCoreSuite.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/SmokeSuite.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/BbAem62TouchUiSuite.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/BbAemClassicSuite.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/UnstableSuite.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/BbAemTouchUiSuite.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/SmokeTests.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/BbTrafficSuite.java
+  AL    src/test/java/com/dwaiba/bdd/demo/suite/MobileSuite.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/touchui/AemCreditCardTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/touchui/AemCarouselTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/touchui/Siteadmin62Test.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/touchui/AemRichtextTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/touchui/AemTitleTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/touchui/SiteadminTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/touchui/AemImageTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/dialog/TabsTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/tags/AemTagsTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemCheckboxTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/auth/ManualLoginTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/auth/AemLoginTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/ValidationWindowTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemFieldsetTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemBubbleMessageTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemLookupFieldTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemDialogTestBase.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemSidekickTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemDropdownTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemRadioGroupTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemParsysTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemContentFinderTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/packages/ContentInstallerTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/packages/WcmCommandHandlerActivatorTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemTextAreaTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemTextFieldTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/list/AemListItemTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/list/AemListTestHelper.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/list/AemListTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemRichtextTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/wcm/api/WcmCommandHandlerPageCreatorTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/wcm/SiteAdminTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemContextMenuTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/aem/AemImageTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/tabs/BrowserTabsTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/frame/FrameTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/jcr/JcrTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/publish/TopNavigationTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/publish/OrderTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/po/feedback/RichtextComponentTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/expectedConditions/UrlExpectedConditionsTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/expectedConditions/CommonExpectedConditionTest.java
+  AL    src/test/java/com/dwaiba/bdd/demo/misc/RegexMatcherTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/RerunFailedTests.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/configurer/ComponentConfigurerBuilderTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/geometrixx/TopNavigationTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/geometrixx/ProductPageTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/traffic/AjaxTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/aem/login/AemLogoutTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/aem/login/AemLoginTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/aem/components/AemCheckboxTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/aem/components/AemFieldsetTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/aem/components/AemDropdownTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/aem/components/AemMultifieldTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/DemoComponentsTheoryTest.java
+  AL    src/test/java/com/dwaiba/qa/bobcumber/DemoComponentsTest.java
+  AL    src/main/java/com/dwaiba/bdd/demo/CucumberInjectorSource.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/user/ProfilePage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/geomain/CarouselComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/geomain/GeometrixxMainPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/touchui/CarouselComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/touchui/ImageComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/touchui/TextComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/touchui/TitleComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/touchui/CreditCardComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/login/ProjectsScreen.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/login/LoginBox.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/login/UserDialog.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/login/LoginPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/zg/components/TitlePage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/press/LightBoxComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/press/PagePropertiesComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/press/PressPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/frame/FrameWithName.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/frame/FrameWithIndex.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/frame/FrameWithPath.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/frame/SubFrame11.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/frame/MainPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/frame/Interspersed.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/geosearch/GeoSearchPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/geosearch/SearchComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/publish/components/TopNav.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/publish/components/PublishImage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/publish/pages/CheckoutPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/publish/pages/HomePage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/publish/pages/CartPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/publish/pages/ProductPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/publish/pages/WomensPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/publish/pages/EquipmentPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/publish/pages/MensPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/customersurvey/AccountNameComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/customersurvey/CustomerSurveyPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/customersurvey/RadioComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/feedback/FeedbackPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/feedback/TextFieldComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/feedback/StartFormComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/feedback/TitleComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/feedback/RichtextComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/product/TrianglePage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/product/CirclePage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/product/SquarePage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/product/MandelbrotPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/summer/SummerBlockbusterHitsPage.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/summer/SectionHeaderComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/summer/ImageComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/summer/PopularArticlesComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/summer/HeaderComponent.java
+  AL    src/main/java/com/dwaiba/bdd/demo/po/ComponentWithDialog.java
+  AL    src/main/java/com/dwaiba/bdd/demo/GuiceModule.java
+  AL    src/main/java/com/dwaiba/bdd/demo/GuiceModuleWithDisabledProxy.java
+  AL    src/main/java/com/dwaiba/bdd/demo/pageobjects/ArticleComponent.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/GlobalHooks.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/TrafficCaptureSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/CheckoutPublishPageSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/FeedbackPageSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/ProjectsScreenSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/BobcatSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/WomensPublishPageSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/MensPublishPageSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/LoginPageSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/CartPublishPageSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/HomePublishPageSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/common/ComponentSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/common/ParsysSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/common/AuthorPageSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/steps/ProductPublishPageSteps.java
+  AL    src/main/java/com/dwaiba/qa/bobcumber/DemoComponents.java
+  AL    pom.xml
+ 
+*****************************************************
